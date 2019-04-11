@@ -1,0 +1,104 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#biggest{
+	width: 1037px;
+	margin: 0px auto;
+}
+#box-big{
+	width: 100% ;
+	height: 60px ;
+}
+#top-2{
+	width: 100%;
+	height: 55px;
+	background-color: black;
+}
+#top-2 li{	
+	font-size: 10px;
+	margin-top: 20px;
+	margin-right: 10px;
+	list-style: none;
+	float: left;
+	color: white;
+}
+#w{
+	margin-left:25px ;
+}
+#e{
+	color: white;
+	font-size: 13px;
+	position: relative;
+	top: -8px;
+	left: 330px;
+}
+#im{
+	position: relative;
+	left: 340px;
+	top:6px;
+}
+#r{
+	margin-left: 25px;
+	float: left;
+}
+#daoh{
+	width:1037px ;
+	height: 60px;
+}
+#daoh-2{
+	width:1037px ;
+	height: 55px;
+	background-color: #f4f1f1;
+}
+#daoh-2 li{
+	margin-top: 15px;
+}
+#daoh ul{
+	float: left;
+}
+#daoh li{
+	list-style: none;
+	float: left;
+	margin-right: 12px;
+	margin-top: 15px;
+}
+#cang input{
+	float: left;
+	margin-top:6px ;
+	width: 200px;
+	height: 48px;
+	border-color: #f1efef;
+	display: block;
+	
+}
+#cang img{
+	margin-top:5px ;
+}
+#h1{
+	margin-left: 17px;
+	margin-top: 10px;
+	float: left;
+}
+
+#dhfrist{
+	margin-left: 560px;
+}
+#daoh-2 li{
+	list-style: none;
+	float: left;
+}
+#middle{
+	margin-left: -85px;
+}
+#middle li{
+	list-style: none;
+}
+#bot li{
+	list-style: none;
+	float: left;
+	margin-left: 35px;
+}
+#bott{
+	margin-left: -105px;
+}
